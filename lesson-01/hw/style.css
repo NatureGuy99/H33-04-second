@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-size: 200%;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 150%;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+    border-color: teal;
+    border-radius: 5px;
+    text-align: center;
+}
+
+img{
+    border-radius: 15px;
+}
